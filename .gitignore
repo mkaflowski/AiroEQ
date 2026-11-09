@@ -1,0 +1,17 @@
+# Airoha's library - extracted locally from the FlyCC APK, never redistributed
+native/
+
+# Device-specific / personal data
+airoeq_config.json
+factory_backup.json
+backups/
+scan*.json
+*.log
+NOTES.md
+
+# Local research tools
+emu/disasm.py
+
+__pycache__/
+*.pyc
+dist/
